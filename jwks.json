@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "asp-sandbox-1",
+      "n": "stVO9zSI36ZP-Rprjfm4VvETf0-I3627EJjzy6AcC3riALToZdg79jgt231TiGKqOPO65yO1OsdUnysyMsExoKNSYGQcTbegjI1VGgx0kA3HHkqMRPs15WWiRKnZzgA64ZVdh2ktz8jtEY41y1muP2bvJScIAgBcvV1dZUVSr9De8kvCRo60K6yfuqoLaRqeSDJ3n8gZfkFSTstnubjNV4R923uGWmtNYqMUwYlokMLvvxySmnRKpV0Yfy4Lt3pXHSUPt7_CQVN1AnvlOzcAQEybWbPF39XYn0Kx04gXeSUDOfg2TsnZDf8NP1-mSzzXmDoNXrRYFCrzn5IIbSFIvQ",
+      "e": "AQAB"
+    }
+  ]
+}
